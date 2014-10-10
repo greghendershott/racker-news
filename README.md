@@ -1,6 +1,6 @@
 # racker-news
 
-A Clojure library wrapping the
+A Racket library wrapping the
 [Hacker News v0 API](https://github.com/HackerNews/API). Not that it
 needs much wrapping. This is just an exercise while learning Clojure.
 
